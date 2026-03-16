@@ -21,7 +21,7 @@ Maintained by the team at [Cheryl AI](https://cherylmd.com) — AI clinical docu
 
 | Tool | Type | Specialty Support | EHR Compatibility | Pricing |
 |------|------|-------------------|-------------------|---------|
-| [Cheryl AI](https://cherylmd.com) | Chrome Extension | Chiro, Acupuncture, PT, TCM, 30+ specialties | Any web-based EHR (44+ verified) | $49/mo |
+| [Cheryl AI](https://cherylmd.com) | Chrome Extension | Family Med, Dermatology, Psychiatry, Orthopedics, Urgent Care, 30+ specialties | Any web-based EHR (44+ verified) | $49/mo |
 | [Heidi Health](https://www.heidihealth.com) | Browser App | General | Any (listens via browser) | Free/$30/mo |
 
 ### Ambient Listening / Voice
@@ -172,4 +172,4 @@ This list is released under CC0 — no rights reserved.
 
 ---
 
-*Maintained by [Cheryl AI](https://cherylmd.com) — Stop losing $57K/year to undercoding.*
+*Maintained by [Cheryl AI](https://cherylmd.com) — AI clinical documentation & billing optimization for independent clinics and multi-specialty groups.*
